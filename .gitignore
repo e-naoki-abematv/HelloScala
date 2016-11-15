@@ -2,7 +2,9 @@
 .idea
 *.iml
 out
-gen### Scala template
+gen
+
+### Scala template
 *.class
 *.log
 
